@@ -1,0 +1,19 @@
+{
+  "name": "webduino-module-max44009",
+  "description": "MAX44009 Module for Webduino",
+  "main": "MAX44009.js",
+  "authors": "",
+  "license": "ISC",
+  "keywords": [
+    "arduino",
+    "webduino",
+    "max44009"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

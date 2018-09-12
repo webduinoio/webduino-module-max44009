@@ -1,0 +1,19 @@
+{
+  "name": "webduino-module-max44009",
+  "version": "1.0.0",
+  "description": "MAX44009 Module for Webduino",
+  "main": "MAX44009.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [
+    "arduino",
+    "webduino",
+    "max44009"
+  ],
+  "dependencies": {
+    "webduino-js": "0.x"
+  }
+}

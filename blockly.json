@@ -1,0 +1,15 @@
+{
+  "types": ["max44009_new", "max44009_on", "max44009_get_value", "max44009_off"],
+  "category": "catMenu3",
+  "scripts": [
+    "blockly/blocks.js",
+    "blockly/javascript.js"
+  ],
+  "dependencies": [
+    "MAX44009.js",
+    "MAX44009-blockly.js"
+  ],
+  "msg": "blockly/msg",
+  "blocksMsg": "blockly/msg/blocks",
+  "toolbox": "blockly/toolbox.xml"
+}

@@ -1,0 +1,16 @@
+<category id="catMAX44009" tags="fly,smart">
+  <block type="variables_set">
+    <field name="VAR">max44009</field>
+    <value name="VALUE">
+      <block type="max44009_new">
+        <field name="sda">10</field>
+        <field name="scl">11</field>
+      </block>
+    </value>
+  </block>
+  <block type="max44009_on">
+    <value name="do"></value>
+  </block>
+   <block type="max44009_val"></block>
+  <block type="max44009_off"></block>
+</category>
