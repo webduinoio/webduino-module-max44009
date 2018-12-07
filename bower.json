@@ -3,7 +3,7 @@
   "description": "MAX44009 Module for Webduino",
   "main": "MAX44009.js",
   "authors": "",
-  "license": "ISC",
+  "license": "MIT",
   "keywords": [
     "arduino",
     "webduino",
