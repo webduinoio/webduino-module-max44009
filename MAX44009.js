@@ -57,7 +57,7 @@
         }
         this.callback = function(rawData) {   // rawData為array
             var val = '';
-            console.log(rawData);
+            // console.log(rawData);
             for (var i = 0; i < rawData.length; i++) {
                 val += String.fromCharCode(rawData[i]);
             }
