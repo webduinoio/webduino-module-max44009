@@ -5,3 +5,4 @@ Blockly.Msg.WEBDUINO_MAX44009_START = "开始侦测";
 Blockly.Msg.WEBDUINO_MAX44009_DO = "执行";
 Blockly.Msg.WEBDUINO_MAX44009_STOP = "停止侦测";
 Blockly.Msg.WEBDUINO_MAX44009_VAL = "数值";
+Blockly.Msg.WEBDUINO_MAX44009_HELPURL = "https://resource.webduino.io/docs/cloud-component/sensor/light-sensor";

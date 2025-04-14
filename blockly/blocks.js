@@ -46,7 +46,7 @@ Blockly.Blocks['max44009_new'] = {
     this.setOutput(true, null);
     this.setColour(230);
     this.setTooltip('');
-    this.setHelpUrl('http://www.example.com/');
+    this.setHelpUrl(Blockly.Msg.WEBDUINO_MAX44009_HELPURL);
   }
 };
 
@@ -62,7 +62,7 @@ Blockly.Blocks['max44009_on'] = {
     this.setNextStatement(true, null);
     this.setColour(65);
     this.setTooltip('');
-    this.setHelpUrl('http://www.example.com/');
+    this.setHelpUrl(Blockly.Msg.WEBDUINO_MAX44009_HELPURL);
   }
 };
 
@@ -75,7 +75,7 @@ Blockly.Blocks['max44009_off'] = {
     this.setNextStatement(true, null);
     this.setColour(65);
     this.setTooltip('');
-    this.setHelpUrl('http://www.example.com/');
+    this.setHelpUrl(Blockly.Msg.WEBDUINO_MAX44009_HELPURL);
   }
 };
 
@@ -87,6 +87,6 @@ Blockly.Blocks['max44009_val'] = {
     this.setOutput(true, null);
     this.setColour(35);
     this.setTooltip('');
-    this.setHelpUrl('http://www.example.com/');
+    this.setHelpUrl(Blockly.Msg.WEBDUINO_MAX44009_HELPURL);
   }
 };
